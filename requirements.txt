@@ -1,0 +1,5 @@
+d4rl==1.1
+gym==0.24.1
+numpy==1.22.0
+tianshou==0.4.8
+torch==1.11.0
